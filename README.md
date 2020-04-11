@@ -1,3 +1,3 @@
 # hello-world
-My first step into coding
-My name is Danilo and i'm learing how to code so I don't have to serve people for life..
+My first step into coding.
+I decided to learn to code so I don't have be a server for life...
