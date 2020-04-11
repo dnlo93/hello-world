@@ -1,2 +1,3 @@
 # hello-world
-My first step into coding
+My first step into coding.
+I decided to learn to code so I don't have be a server for life...
